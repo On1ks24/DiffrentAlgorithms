@@ -1,0 +1,6 @@
+﻿  Laba5.cpp
+C:\Users\sarae\source\repos\semestr3\с++\ТА 5 лаба\Laba5\Laba5\Laba5.cpp(51,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarae\source\repos\semestr3\с++\ТА 5 лаба\Laba5\Laba5\Laba5.cpp(52,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarae\source\repos\semestr3\с++\ТА 5 лаба\Laba5\Laba5\Laba5.cpp(53,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarae\source\repos\semestr3\с++\ТА 5 лаба\Laba5\Laba5\Laba5.cpp(73,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba5.vcxproj -> C:\Users\sarae\source\repos\semestr3\с++\ТА 5 лаба\Laba5\x64\Debug\Laba5.exe
